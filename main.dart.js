@@ -97215,7 +97215,7 @@ case 0:q.a.a.rw()
 break
 case 14:q.a.a.nX()
 break
-case 15:A.W4("https://ingantt.com/docs/")
+case 15:A.W4("https://docs.ingantt.com")
 break}return A.D(null,r)}})
 return A.E($async$$1,r)},
 $S:565}
