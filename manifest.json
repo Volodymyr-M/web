@@ -3,8 +3,6 @@
     "short_name": "Ingantt",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#hexcode",
-    "theme_color": "#hexcode",
     "description": "Project management application to create schedules, plans, roadmaps with Gantt chart support.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
