@@ -7,7 +7,7 @@ const RESOURCES = {
 "assets/assets/google_logo.png": "87bb3083e2e2f163d80175a343cc1b00",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "628b706d311e273c5341503796be3c25",
+"assets/NOTICES": "37253055e6f9a6a4dcc272cc7ac83d68",
 "assets/packages/window_manager/images/ic_chrome_close.png": "75f4b8ab3608a05461a31fc18d6b47c2",
 "assets/packages/window_manager/images/ic_chrome_maximize.png": "af7499d7657c8b69d23b85156b60298c",
 "assets/packages/window_manager/images/ic_chrome_minimize.png": "4282cd84cb36edf2efb950ad9269ca62",
@@ -22,11 +22,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "83591a9f65892bca3d056591e308d325",
 "icons/Icon-maskable-192.png": "9c265701fb433c56b1cf90268ed427fd",
 "icons/Icon-maskable-512.png": "83591a9f65892bca3d056591e308d325",
-"index.html": "6142463baefe66f11a4506be0f3286e4",
-"/": "6142463baefe66f11a4506be0f3286e4",
-"main.dart.js": "19364f916807e690f83fd339f61a676d",
+"index.html": "6db6dc24667484fbe908fdf9f0f14b13",
+"/": "6db6dc24667484fbe908fdf9f0f14b13",
+"main.dart.js": "a75cb068896c5f9c70ac68230d2784bf",
 "manifest.json": "01f395258107b10e1a78cf655ef79f00",
-"version.json": "0b42d7f9bc8b8048d68e0866827fde7e"
+"version.json": "e39d08dc54c7a46720c82eb1fc5d95b7"
 };
 
 // The application shell files that are downloaded before a service worker can
