@@ -8,7 +8,7 @@ const RESOURCES = {"assets/AssetManifest.json": "47a54ec382c8c1bebc9c2d2877bca49
 "assets/assets/google_logo.png": "87bb3083e2e2f163d80175a343cc1b00",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "263014ce317fabb037e28f10c7d8235d",
-"assets/NOTICES": "d5cf6f5e78db482e7e6dd86b24cffbb8",
+"assets/NOTICES": "1201699f826f228b2cd52396bd283a89",
 "assets/packages/window_manager/images/ic_chrome_close.png": "75f4b8ab3608a05461a31fc18d6b47c2",
 "assets/packages/window_manager/images/ic_chrome_maximize.png": "af7499d7657c8b69d23b85156b60298c",
 "assets/packages/window_manager/images/ic_chrome_minimize.png": "4282cd84cb36edf2efb950ad9269ca62",
@@ -27,11 +27,11 @@ const RESOURCES = {"assets/AssetManifest.json": "47a54ec382c8c1bebc9c2d2877bca49
 "icons/Icon-512.png": "83591a9f65892bca3d056591e308d325",
 "icons/Icon-maskable-192.png": "9c265701fb433c56b1cf90268ed427fd",
 "icons/Icon-maskable-512.png": "83591a9f65892bca3d056591e308d325",
-"index.html": "bf28272a2186a89480f80686dfde744b",
-"/": "bf28272a2186a89480f80686dfde744b",
-"main.dart.js": "b5f84cd723cfeab45a94d0c8998a4d72",
+"index.html": "d153a362c2b28abd7457345af48407cc",
+"/": "d153a362c2b28abd7457345af48407cc",
+"main.dart.js": "279dcdda116b80230cd76885c7187052",
 "manifest.json": "01f395258107b10e1a78cf655ef79f00",
-"version.json": "e39d08dc54c7a46720c82eb1fc5d95b7"};
+"version.json": "20c7a27be9f05a93b6dbaf6d2654a7e2"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
