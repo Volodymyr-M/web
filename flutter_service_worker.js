@@ -3,12 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.json": "47a54ec382c8c1bebc9c2d2877bca492",
+const RESOURCES = {"assets/AssetManifest.bin": "acb8f56a7eeee2921dde8333332eaf5c",
+"assets/AssetManifest.json": "47a54ec382c8c1bebc9c2d2877bca492",
 "assets/AssetManifest.smcbin": "fb3f25c554d641d65171f0a405011a4d",
 "assets/assets/google_logo.png": "87bb3083e2e2f163d80175a343cc1b00",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
-"assets/fonts/MaterialIcons-Regular.otf": "263014ce317fabb037e28f10c7d8235d",
-"assets/NOTICES": "1201699f826f228b2cd52396bd283a89",
+"assets/fonts/MaterialIcons-Regular.otf": "376f788af11e69cadf3d7ba57a34ef63",
+"assets/NOTICES": "bbf690b0b6dd30cd3bd18abd838ad8d8",
 "assets/packages/window_manager/images/ic_chrome_close.png": "75f4b8ab3608a05461a31fc18d6b47c2",
 "assets/packages/window_manager/images/ic_chrome_maximize.png": "af7499d7657c8b69d23b85156b60298c",
 "assets/packages/window_manager/images/ic_chrome_minimize.png": "4282cd84cb36edf2efb950ad9269ca62",
@@ -27,11 +28,11 @@ const RESOURCES = {"assets/AssetManifest.json": "47a54ec382c8c1bebc9c2d2877bca49
 "icons/Icon-512.png": "83591a9f65892bca3d056591e308d325",
 "icons/Icon-maskable-192.png": "9c265701fb433c56b1cf90268ed427fd",
 "icons/Icon-maskable-512.png": "83591a9f65892bca3d056591e308d325",
-"index.html": "d153a362c2b28abd7457345af48407cc",
-"/": "d153a362c2b28abd7457345af48407cc",
-"main.dart.js": "279dcdda116b80230cd76885c7187052",
+"index.html": "a8c07af6ebc7d2a2b7893aa87aa0d460",
+"/": "a8c07af6ebc7d2a2b7893aa87aa0d460",
+"main.dart.js": "55656cba37107398e8e28b2e0d49e748",
 "manifest.json": "01f395258107b10e1a78cf655ef79f00",
-"version.json": "20c7a27be9f05a93b6dbaf6d2654a7e2"};
+"version.json": "bf9284c2fc766f6fb769e8e3dc28adde"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
