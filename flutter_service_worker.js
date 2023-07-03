@@ -9,7 +9,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "7c7189426ff720bf430c74cb7bf72c38
 "assets/FontManifest.json": "07bde29e8d951c6c9624a6c64680d267",
 "assets/fonts/MaterialIcons-Regular.otf": "ee9025c7087e3dcde2c6f531400300aa",
 "assets/NOTICES": "a7602d9a07e3a2acd17f6a0143f93908",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "9121f387004de6f419bed67123cd7ff5",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "bd202bcc36d31227c99d58f6d1144ee0",
 "assets/packages/fluentui_system_icons/fonts/FluentSystemIcons-Filled.ttf": "eb89b2eb50234a497fb4ce53e0db13f9",
 "assets/packages/fluentui_system_icons/fonts/FluentSystemIcons-Regular.ttf": "8d65f5a238cbdbb7f9e04ec24cf393b0",
 "assets/packages/fluent_ui/assets/AcrylicNoise.png": "81f27726c45346351eca125bd062e9a7",
@@ -32,11 +32,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "7c7189426ff720bf430c74cb7bf72c38
 "icons/Icon-512.png": "83591a9f65892bca3d056591e308d325",
 "icons/Icon-maskable-192.png": "9c265701fb433c56b1cf90268ed427fd",
 "icons/Icon-maskable-512.png": "83591a9f65892bca3d056591e308d325",
-"index.html": "35d6b3ddfed5aeb6708a01c04eccf9e1",
-"/": "35d6b3ddfed5aeb6708a01c04eccf9e1",
-"main.dart.js": "2c143a0e7001b3d4e2a8d44cf1b22c4b",
+"index.html": "b3cdc4b0050c4148e4eafff771107771",
+"/": "b3cdc4b0050c4148e4eafff771107771",
+"main.dart.js": "b1704182d261237146950abf2d12e481",
 "manifest.json": "01f395258107b10e1a78cf655ef79f00",
-"version.json": "caa831f01ed42d787ef95f26721d87ab"};
+"version.json": "10bd8f9a0fe7d3dc5ec022cc26e0a89b"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
