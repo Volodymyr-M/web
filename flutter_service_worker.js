@@ -10,8 +10,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "7c7189426ff720bf430c74cb7bf72c38
 "assets/fonts/MaterialIcons-Regular.otf": "e8c8d354c0f3911a10d9a818d14bf935",
 "assets/NOTICES": "f0d0ca0481653e4aa5ac27b837e6f1b5",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "af79c8e08283a5f8d99087fd3baa3d27",
-"assets/packages/fluentui_system_icons/fonts/FluentSystemIcons-Filled.ttf": "2ab869230fe8d5a29cbfa0644f278f73",
-"assets/packages/fluentui_system_icons/fonts/FluentSystemIcons-Regular.ttf": "ec6d1b1f3b30669da5405920b053c83b",
+"assets/packages/fluentui_system_icons/fonts/FluentSystemIcons-Filled.ttf": "d3c854a399bffbe253a475e1c8ccb445",
+"assets/packages/fluentui_system_icons/fonts/FluentSystemIcons-Regular.ttf": "2b82dc3e9631ae1a27c05176099abdba",
 "assets/packages/fluent_ui/assets/AcrylicNoise.png": "81f27726c45346351eca125bd062e9a7",
 "assets/packages/fluent_ui/fonts/FluentIcons.ttf": "f3c4f09a37ace3246250ff7142da5cdd",
 "assets/packages/window_manager/images/ic_chrome_close.png": "75f4b8ab3608a05461a31fc18d6b47c2",
@@ -32,9 +32,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "7c7189426ff720bf430c74cb7bf72c38
 "icons/Icon-512.png": "83591a9f65892bca3d056591e308d325",
 "icons/Icon-maskable-192.png": "9c265701fb433c56b1cf90268ed427fd",
 "icons/Icon-maskable-512.png": "83591a9f65892bca3d056591e308d325",
-"index.html": "f6898ae3a3d4e8c91bdda0b3dcd7851d",
-"/": "f6898ae3a3d4e8c91bdda0b3dcd7851d",
-"main.dart.js": "2f164b3b5757b724a45441aa41dfe7ed",
+"index.html": "cc25f49364e51a64740a759047fd346f",
+"/": "cc25f49364e51a64740a759047fd346f",
+"main.dart.js": "7bbb0a3b05f90cd4f96c886ce7820ac6",
 "manifest.json": "01f395258107b10e1a78cf655ef79f00",
 "version.json": "a01121a7a37fa77f40cf847dccdba06c"};
 // The application shell files that are downloaded before a service worker can
