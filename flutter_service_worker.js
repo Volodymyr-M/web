@@ -9,10 +9,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "7c7189426ff720bf430c74cb7bf72c38
 "assets/assets/google_logo.png": "bbd3e021a37bd2f41a22db50b16a38ab",
 "assets/FontManifest.json": "07bde29e8d951c6c9624a6c64680d267",
 "assets/fonts/MaterialIcons-Regular.otf": "e8c8d354c0f3911a10d9a818d14bf935",
-"assets/NOTICES": "985b220c5d01df466f35be3ee35e7589",
+"assets/NOTICES": "eae55fcef543e4802a3895fa88d3ca0d",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "af79c8e08283a5f8d99087fd3baa3d27",
-"assets/packages/fluentui_system_icons/fonts/FluentSystemIcons-Filled.ttf": "1f0d8a94e2eb664bec8616ddbde97ed0",
-"assets/packages/fluentui_system_icons/fonts/FluentSystemIcons-Regular.ttf": "6a738868f7f0db90ddd68d554d431019",
+"assets/packages/fluentui_system_icons/fonts/FluentSystemIcons-Filled.ttf": "7781bebcc26a13c842db87e063721ec5",
+"assets/packages/fluentui_system_icons/fonts/FluentSystemIcons-Regular.ttf": "ea3c3cc9b5316b2d4c560a0d8856d443",
 "assets/packages/fluent_ui/assets/AcrylicNoise.png": "81f27726c45346351eca125bd062e9a7",
 "assets/packages/fluent_ui/fonts/FluentIcons.ttf": "f3c4f09a37ace3246250ff7142da5cdd",
 "assets/packages/window_manager/images/ic_chrome_close.png": "75f4b8ab3608a05461a31fc18d6b47c2",
@@ -33,11 +33,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "7c7189426ff720bf430c74cb7bf72c38
 "icons/Icon-512.png": "83591a9f65892bca3d056591e308d325",
 "icons/Icon-maskable-192.png": "9c265701fb433c56b1cf90268ed427fd",
 "icons/Icon-maskable-512.png": "83591a9f65892bca3d056591e308d325",
-"index.html": "6a5ab3cc7be8d935c1e4cbb16651146b",
-"/": "6a5ab3cc7be8d935c1e4cbb16651146b",
-"main.dart.js": "f9a534cf2b8278d452c83993d914a662",
+"index.html": "698db223a2d508e33d3362b10b1ad22a",
+"/": "698db223a2d508e33d3362b10b1ad22a",
+"main.dart.js": "78db4c821a8addca0d3113fa04608f74",
 "manifest.json": "01f395258107b10e1a78cf655ef79f00",
-"version.json": "a01121a7a37fa77f40cf847dccdba06c"};
+"version.json": "81769e485d9f3e68413f1fd0136ed16d"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
