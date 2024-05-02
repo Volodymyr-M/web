@@ -3,16 +3,24 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "7c7189426ff720bf430c74cb7bf72c38",
-"assets/AssetManifest.bin.json": "6cfa535c979add25e36b1b99b182951c",
-"assets/AssetManifest.json": "ebe2de46b5d3d424338df4007476fa7e",
+const RESOURCES = {"assets/AssetManifest.bin": "bfc17175f3130db175b7836951cfe0b0",
+"assets/AssetManifest.bin.json": "b67a2a048000c95824ec3d2b1acce712",
+"assets/AssetManifest.json": "d321f89114e1fb5714028756a4ae076a",
 "assets/assets/google_logo.png": "bbd3e021a37bd2f41a22db50b16a38ab",
+"assets/assets/templates/PMI_Process.png": "d295b3f0a9d49779fb124d15e8148994",
+"assets/assets/templates/PMI_Process.xml": "a665ceee539bdc34d2da687552d232cb",
+"assets/assets/templates/Software_Development_Plan.png": "2260b9d7576cde4e1c5ab4b87b3fabdf",
+"assets/assets/templates/Software_Development_Plan.xml": "fdaa2acd923033336df54649cca2a0c1",
+"assets/assets/templates/Tutorial_Template.png": "3a1916cadd2c6de298dc0359c3abb6f4",
+"assets/assets/templates/Tutorial_Template.xml": "edcef949aabe979c7cc1f752a5fa5d15",
+"assets/assets/templates/Wedding_Plan.png": "89d9db5f92efae83a2610babe39fec80",
+"assets/assets/templates/Wedding_Plan.xml": "76ae630c4d2e50d84a73b3741a25798a",
 "assets/FontManifest.json": "07bde29e8d951c6c9624a6c64680d267",
-"assets/fonts/MaterialIcons-Regular.otf": "d54c624fccf3bb12b069cfa0d523b614",
-"assets/NOTICES": "4a427d03b7892998e8b8bcd7b8f7a850",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "af79c8e08283a5f8d99087fd3baa3d27",
-"assets/packages/fluentui_system_icons/fonts/FluentSystemIcons-Filled.ttf": "69240e575cd8b83e0fc8c26a12bbad39",
-"assets/packages/fluentui_system_icons/fonts/FluentSystemIcons-Regular.ttf": "63e6b3f715ac78d7842be2bd2f92449e",
+"assets/fonts/MaterialIcons-Regular.otf": "8435382048b46baac5f7c914f8ffaa22",
+"assets/NOTICES": "235b64ef29523cdff7ecdec7ad3e1ef4",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "927570a6f184426d785288368efcd644",
+"assets/packages/fluentui_system_icons/fonts/FluentSystemIcons-Filled.ttf": "8e68a3b9861a9735a5336ffe055c6177",
+"assets/packages/fluentui_system_icons/fonts/FluentSystemIcons-Regular.ttf": "25602240291b1cc3cf0ec243f4fc710c",
 "assets/packages/fluent_ui/assets/AcrylicNoise.png": "81f27726c45346351eca125bd062e9a7",
 "assets/packages/fluent_ui/fonts/FluentIcons.ttf": "f3c4f09a37ace3246250ff7142da5cdd",
 "assets/packages/window_manager/images/ic_chrome_close.png": "75f4b8ab3608a05461a31fc18d6b47c2",
@@ -36,11 +44,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "7c7189426ff720bf430c74cb7bf72c38
 "icons/Icon-512.png": "83591a9f65892bca3d056591e308d325",
 "icons/Icon-maskable-192.png": "9c265701fb433c56b1cf90268ed427fd",
 "icons/Icon-maskable-512.png": "83591a9f65892bca3d056591e308d325",
-"index.html": "423766e6e763ffed347019ac21e5730c",
-"/": "423766e6e763ffed347019ac21e5730c",
-"main.dart.js": "b32d7f23ed43bb4e74dc2de633f754d5",
+"index.html": "fb386fce8ced7f61f7733cf1a419403e",
+"/": "fb386fce8ced7f61f7733cf1a419403e",
+"main.dart.js": "f0e24e822e7a42bcc800710936b81a9d",
 "manifest.json": "01f395258107b10e1a78cf655ef79f00",
-"version.json": "ea87ecb51c8be825ade7a88d4fadcf95"};
+"version.json": "9f8d23022d37bd099e8342e7fe77bc93"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
