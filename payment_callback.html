@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment callback</title>
+</head>
+<body>
+    <script type="text/javascript">
+        (function() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const codeKey = 'statusCode';
+            const statusKey = 'status';
+            const code = urlParams.get(codeKey);
+            const status = urlParams.get(statusKey);
+            if (code) {
+                localStorage.setItem(codeKey, code);
+                localStorage.setItem(statusKey, status);
+                window.close();
+            } else {
+                console.error(codeKey + ' not found in the URL parameters.');
+            }
+        })();
+    </script>
+</body>
+</html>
