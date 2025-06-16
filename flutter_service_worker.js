@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "5db19a45112190e77f7c7289eaf55de0",
-"version.json": "b9c457c68de5847a111d216f095d6603",
+const RESOURCES = {"flutter_bootstrap.js": "830d341676464dbea6320823aecdd95b",
+"version.json": "d568080e179e82a004d89b214d13d095",
 "index.html": "67c9381120a43fa6667b4a89bf8b9870",
 "/": "67c9381120a43fa6667b4a89bf8b9870",
-"main.dart.js": "01e282f9b29e9e631af493181ab8763d",
+"main.dart.js": "ac8246bca86d0fd2b5949ecef5e87d03",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
 "favicon.png": "0640bea5e511234b2ee0c7ec42e38319",
 "callback.html": "13b9fdcf9586b352f462b0d06cf58d3b",
@@ -28,7 +28,7 @@ const RESOURCES = {"flutter_bootstrap.js": "5db19a45112190e77f7c7289eaf55de0",
 "assets/packages/fluent_ui/assets/AcrylicNoise.png": "81f27726c45346351eca125bd062e9a7",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "97bbfd8facf587650acb44d306b307c7",
-"assets/fonts/MaterialIcons-Regular.otf": "ef3d957c557c463689881c3cd637c151",
+"assets/fonts/MaterialIcons-Regular.otf": "3a0c24d5077cc5ea6d0a892a0dde063b",
 "assets/assets/google_logo.png": "bbd3e021a37bd2f41a22db50b16a38ab",
 "assets/assets/templates/Tutorial_Template.png": "3a1916cadd2c6de298dc0359c3abb6f4",
 "assets/assets/templates/Tutorial_Template.xml": "edcef949aabe979c7cc1f752a5fa5d15",
