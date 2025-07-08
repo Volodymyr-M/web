@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "15a9ce028d174833141e188822cea718",
+const RESOURCES = {"flutter_bootstrap.js": "7475726f31609ff5d1c0e0697d551a5b",
 "version.json": "959b9d74a602ba741c6df68104827a58",
 "index.html": "67c9381120a43fa6667b4a89bf8b9870",
 "/": "67c9381120a43fa6667b4a89bf8b9870",
@@ -44,7 +44,7 @@ const RESOURCES = {"flutter_bootstrap.js": "15a9ce028d174833141e188822cea718",
 "assets/assets/templates/PMI_Process.xml": "701cb6a15a98f4c6e51acd93d59186a3",
 "assets/assets/templates/PMI_Process.png": "d295b3f0a9d49779fb124d15e8148994",
 "assets/assets/03-Onboarding-Edit.png": "ce3e61e3865147d78ebe0a58d6943bd4",
-"assets/assets/00-Empty%2520List%25203.png": "6f7989d1a8f8b2193484d8e4dce7604c",
+"assets/assets/00-Empty%2520List%25203.png": "a6584e7810e64a12596e1575b2b32b9f",
 "assets/assets/01-Onboarding-Desktop-Plan.png": "1bf0e67e9df1362469e0c9ed52c8c469",
 "assets/assets/illustration_cropped.png": "2299c528b83d3c9805c2cd69022ad323",
 "assets/assets/00-Empty%2520List%25202.png": "b364f761b2d4f653bb192abeb16a8340",
